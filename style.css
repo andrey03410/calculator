@@ -17,7 +17,6 @@
 }
 
 .button {
-    font-family: 'Montserrat', sans-serif;
     color: black;
     font-size: 300%;
     font-weight: 700;
@@ -47,4 +46,33 @@
     border: 1px solid #cecece;
     background: #F6F6f6;
     border-radius: 8px;
+    color: black;
+}
+
+.button.nums{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.button.plus{
+    background-color: white;
+}
+
+.button.minus{
+    background-color: white;
+}
+
+.button.division{
+    background-color: white;
+}
+
+.button.multiplication{
+    background-color: white;
+}
+
+.button.clear{
+    background-color: white;
+}
+
+.button.equal{
+    background-color: white;
 }
